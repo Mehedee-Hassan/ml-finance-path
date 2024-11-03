@@ -1,5 +1,8 @@
-Covariance is a statistical measure that quantifies the degree to which two variables change together. It tells us whether an increase in one variable tends to be associated with an increase or decrease in another variable. Specifically:
+
 https://chatgpt.com/share/67273a34-3c58-8009-ada7-5c9691da667e
+
+
+Covariance is a statistical measure that quantifies the degree to which two variables change together. It tells us whether an increase in one variable tends to be associated with an increase or decrease in another variable. Specifically:
 - **Positive Covariance**: Indicates that as one variable increases, the other tends to increase.
 - **Negative Covariance**: Indicates that as one variable increases, the other tends to decrease.
 - **Zero Covariance**: Suggests no linear relationship between the variables.
