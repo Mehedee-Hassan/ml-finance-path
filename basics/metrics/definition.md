@@ -15,3 +15,9 @@
 ![image](https://github.com/user-attachments/assets/bfcf5000-4aea-41bb-9b27-e87b2e7f215a)
 
 ![image](https://github.com/user-attachments/assets/1d218d68-0e6d-4591-b54f-97ff811c760e)
+
+## WHY HARMONIC MEAN NEEDED
+![image](https://github.com/user-attachments/assets/5de7498f-507b-408e-938e-1bedd4477628)
+
+![image](https://github.com/user-attachments/assets/7b1398a3-1494-4276-b209-15957877ca7a)
+
